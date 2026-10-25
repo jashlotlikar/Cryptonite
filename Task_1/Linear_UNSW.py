@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from Linear_Reg import Linear_Regression
+from Task_1.Linear_Reg import Linear_Regression
 
 df = pd.read_csv("unsw-nb15/versions/1/UNSW_NB15_training-set.csv")
 
